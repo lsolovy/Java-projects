@@ -1,4 +1,4 @@
-Oral Exam 1 & 2
+2020 Java projects
 ===========
 
 This folder contains the problems selected from the
