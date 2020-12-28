@@ -1,4 +1,4 @@
-Oral Exam 1
+Oral Exam 1 & 2
 ===========
 
 This folder contains the problems selected from the
